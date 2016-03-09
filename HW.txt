@@ -1,2 +1,2 @@
-print("HW")
-print("AHW")
+print("HW;")
+print("AHW;")
