@@ -1,2 +1,0 @@
-print("HW;")
-print("AHW;")
